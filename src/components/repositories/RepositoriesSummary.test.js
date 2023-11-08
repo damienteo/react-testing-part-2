@@ -15,7 +15,6 @@ test("displays the primary language of the repository", async () => {
 
   //   expect(language).toBeInTheDocument();
   //   expect(stars).toBeInTheDocument();
-  // test
 
   for (let key in repository) {
     const value = repository[key];
